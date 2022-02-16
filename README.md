@@ -2,7 +2,7 @@
 
 A **Software Engineering Student** from Binus University, Indonesia.
 
-**Fullstack Developer** in [Gadai Syariah Indonesia.](https://gadaisyariah.co.id)
+**Intern Web Developer** in [Telkom Indonesia.](https://www.telkom.co.id/sites)
 
 ## About me
 
