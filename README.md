@@ -6,7 +6,7 @@ A **Software Engineering Student** from Binus University, Indonesia.
 
 ## About me
 
-- 👨🏽‍💻 I’m currently working as a PT Barakah Teknologi.
+- 👨🏽‍💻 I’m currently intern as a PT Telkom Indonesia.
 
 - 🌱 I’m currently exploring Javascript and Golang with a big interest in Web Scraping and Services API. 
 
